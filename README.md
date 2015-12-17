@@ -1,1 +1,1 @@
-belajar git sambil belajar spring # training-spring
+project untuk belajar git dan spring
