@@ -1,1 +1,1 @@
-project untuk belajar git dan spring
+project belajar spring boot dan spring data jpa
